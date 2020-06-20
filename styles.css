@@ -81,26 +81,26 @@ figure {
 }
 #img-caption {
   text-align: center;
-  font-family: Courier New;
+  font-family: 'MuseoModerno', cursive;
   margin-top: 10px;
   font-weight: 600;
 }
 
 #title {
-  font-family: courier;
+ font-family: 'MuseoModerno', cursive;
 }
 p {
-  font-family: courier;
+font-family: 'MuseoModerno', cursive;
   text-align: justify; 
   color: #66FCF1;
   }
 footer {
-  font-family: Courier New;
+  font-family: 'MuseoModerno', cursive;
   font-weight: bold;
 }
     
 a {
-  font-family: monospace;
+  font-family: 'MuseoModerno', cursive;
   font-size: 1em;
   text-decoration: none;
 }
